@@ -3,7 +3,7 @@
   "layout_style": "grid",
   "palette": "green",
   "header": {
-    "title": "Ampersand",
+    "title": "Chloroquine and COVID-19",
     "logo_img": "/images/chloroquine19_logo.png",
     "has_nav": true
   },
@@ -16,6 +16,6 @@
         "new_window": true
       }
     ],
-    "has_social": true
+    "has_social": false
   }
 }
