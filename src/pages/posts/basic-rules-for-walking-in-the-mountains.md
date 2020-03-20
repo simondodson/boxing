@@ -1,9 +1,14 @@
 ---
 title: Chloroquine May Fight Covid-19—and Silicon Valley’s Into It
+subtitle: >-
+  The old malaria drug is getting used against the coronavirus. Tech enthusiasts
+  are abuzz. One missing step: clinical trials.
 date: 2020-03-19T13:00:00.000Z
 thumb_img_path: /images/science_covid19_antiviral-1203673365-1-.jpg
 content_img_path: ''
-excerpt: ''
+excerpt: >-
+  The old malaria drug is getting used against the coronavirus. Tech enthusiasts
+  are abuzz. One missing step: clinical trials.
 template: post
 ---
 THE CHATTER ABOUT a promising drug to fight Covid-19 started, as chatter often does (but science does not), on Twitter. A blockchain investor named James Todaro [tweeted](https://twitter.com/JamesTodaroMD/status/1238553266369318914?s=20) that an 85-year-old malaria drug called chloroquine was a potential treatment and preventative against the disease caused by the new coronavirus. Todaro linked to a[Google doc](https://docs.google.com/document/d/e/2PACX-1vTi-g18ftNZUMRAj2SwRPodtscFio7bJ7GdNgbJAGbdfF67WuRJB3ZsidgpidB2eocFHAVjIL-7deJ7/pub) he’d cowritten, explaining the idea.
