@@ -19,8 +19,8 @@ sections:
       Agents showed that antimalarial hydroxychloroquine could effectively treat
       COVID-19.
     actions:
-      - label: Learn More
-        url: /about
+      - label: Online Prescription
+        url: /
 menus:
   main:
     title: Home
