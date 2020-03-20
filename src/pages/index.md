@@ -6,9 +6,9 @@ sections:
     section_id: Intro
     component: Intro
     content: >-
-      Researchers are testing hydroxychloroquine and **chloroquine**, drugs used
-      for malaria, in the treatment of COVID-19 in the hope the cheap medicines
-      could treat patients.
+      Researchers are testing **chloroquine**, a drugs used for malaria, in the
+      treatment of COVID-19 in the hope the this cheap medicine could treat
+      patients.
 
 
       This week, for the first time, results from a human trial have been
