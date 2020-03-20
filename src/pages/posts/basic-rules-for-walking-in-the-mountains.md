@@ -4,7 +4,7 @@ subtitle: >-
   The old malaria drug is getting used against the coronavirus. Tech enthusiasts
   are abuzz. One missing step: clinical trials.
 date: 2020-03-19T13:00:00.000Z
-thumb_img_path: /images/science_covid19_antiviral-1203673365-1-.jpg
+thumb_img_path: /images/chloroquine_wired-copy.jpg
 content_img_path: ''
 excerpt: >-
   The old malaria drug is getting used against the coronavirus. Tech enthusiasts
