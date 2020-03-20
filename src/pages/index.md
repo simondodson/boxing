@@ -2,14 +2,22 @@
 title: Home
 sections:
   - type: intro
-    title: Intro
-    section_id: intro
+    title: What is Chloroquine? Why is it relevant to COVID-19
+    section_id: Intro
     component: Intro
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      Researchers are testing hydroxychloroquine and **chloroquine**, drugs used
+      for malaria, in the treatment of COVID-19 in the hope the cheap medicines
+      could treat patients.
+
+
+      This week, for the first time, results from a human trial have been
+      released, while other trials are still ongoing.
+
+
+      The French study published in the International Journal of Antimicrobial
+      Agents showed that antimalarial hydroxychloroquine could effectively treat
+      COVID-19.
     actions:
       - label: Learn More
         url: /about
