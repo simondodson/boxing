@@ -6,7 +6,7 @@ sections:
     section_id: Intro
     component: Intro
     content: >-
-      Researchers are testing **chloroquine**, a drugs used for malaria, in the
+      Researchers are testing **chloroquine**, a drug used for malaria, in the
       treatment of COVID-19 in the hope the this cheap medicine could treat
       patients.
 
