@@ -20,7 +20,7 @@ sections:
       click below.
     actions:
       - label: Online Doctor
-        url: /
+        url: /docto.com
 menus:
   main:
     title: Home
