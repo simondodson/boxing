@@ -20,7 +20,7 @@ sections:
       click below.
     actions:
       - label: Online Doctor
-        url: www.docto.com
+        url: http://bestonlinedoctors.com.au/
 menus:
   main:
     title: Home
